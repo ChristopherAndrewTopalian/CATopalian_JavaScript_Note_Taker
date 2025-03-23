@@ -1,0 +1,57 @@
+/* style001.css*/
+
+body
+{
+    background-color: rgb(40, 40, 40);
+    font-family: Arial;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+textarea
+{
+    padding: 10px;
+    border: solid 1px rgb(100, 100, 100);
+    border-radius: 8px;
+    font-family: Arial;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+button
+{
+    margin: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: solid 1px rgb(100, 100, 100);
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+button:hover
+{
+    border-color: rgb(0, 255, 255);
+}
+
+button:active
+{
+    position: relative;
+    top: 1px;
+    border-color: rgb(255, 0, 255);
+    color: rgb(255, 0, 255);
+}
+
+/*----*/
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+
